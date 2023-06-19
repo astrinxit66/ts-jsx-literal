@@ -1,0 +1,28 @@
+{
+  "name": "example-webpack",
+  "version": "1.0.0",
+  "description": "Example of a Component that transpiles to string literal",
+  "author": "Jean-Marc Rakotoarisoa",
+  "main": "src/index.tsx",
+  "license": "MIT",
+  "homepage": "https://github.com/astrinxit66/ts-jsx-literal#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astrinxit66/ts-jsx-literal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astrinxit66/ts-jsx-literal/issues"
+  },
+  "scripts": {
+    "prebuild": "rm -rf dist",
+    "build": "webpack",
+    "start": "npx http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@astrinxit66/ts-jsx-literal": "^1.0.0",
+    "ts-loader": "^9.4.3",
+    "webpack": "^5.87.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

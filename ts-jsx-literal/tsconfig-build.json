@@ -1,0 +1,8 @@
+{
+  "extends": "../examples/example-webpack/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+  "exclude": ["**/*.test.ts", "examples/**/*"]
+}
