@@ -1,6 +1,6 @@
 {
   "name": "@astrinxit66/ts-jsx-literal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plugin for the typescript compiler to transpile JSX into String literal",
   "author": "Jean-Marc Rakotoarisoa",
   "homepage": "https://github.com/astrinxit66/ts-jsx-literalx#readme",
