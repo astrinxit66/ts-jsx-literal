@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/astrinxit66/ts-jsx-literal/compare/ts-jsx-literal-v1.0.2...ts-jsx-literal-v1.0.3) (2023-06-20)
+
+
+### Bug Fixes
+
+* simlink README ([b5da348](https://github.com/astrinxit66/ts-jsx-literal/commit/b5da34889decc769e1ad5d79475f576675178206))
+
 ## [1.0.2](https://github.com/astrinxit66/ts-jsx-literal/compare/ts-jsx-literal-v1.0.1...ts-jsx-literal-v1.0.2) (2023-06-20)
 
 
