@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "A plugin for the typescript compiler to transpile JSX into String literal",
   "author": "Jean-Marc Rakotoarisoa",
-  "homepage": "https://github.com/astrinxit66/typescript-transform-jsx#readme",
+  "homepage": "https://github.com/astrinxit66/ts-jsx-literalx#readme",
   "main": "dist/index.js",
   "license": "MIT",
   "files": [
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astrinxit66/typescript-transform-jsx.git"
+    "url": "git+https://github.com/astrinxit66/ts-jsx-literalx.git"
   },
   "bugs": {
-    "url": "https://github.com/astrinxit66/typescript-transform-jsx/issues"
+    "url": "https://github.com/astrinxit66/ts-jsx-literalx/issues"
   },
   "scripts": {
     "test": "jest"
