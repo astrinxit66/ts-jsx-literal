@@ -1,6 +1,6 @@
 {
   "packages": {
-    ".": {
+    "ts-jsx-lieteral": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
